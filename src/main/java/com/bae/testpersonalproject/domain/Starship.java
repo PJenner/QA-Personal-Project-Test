@@ -1,4 +1,4 @@
-package com.bae.personalproject.domain;
+package com.bae.testpersonalproject.domain;
 
 public class Starship {
 
