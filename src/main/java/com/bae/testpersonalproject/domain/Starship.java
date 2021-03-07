@@ -30,6 +30,17 @@ public class Starship {
 		this.age = age;
 	}
 
+	public Starship(Long id, String name, String model, int age) {
+		this.id = id;
+		this.name = name;
+		this.model = model;
+		this.age = age;
+	}
+
+	public Starship() {
+
+	}
+
 	public String getName() {
 		return name;
 	}
